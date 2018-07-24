@@ -1,3 +1,5 @@
 function add() {
-  expect(add(a, b)).toEqual(a + b)
+  var a = 0
+  var b = 1
+  return math.add(a, b);
 }
